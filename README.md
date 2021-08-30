@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pablo Casas a.k.a @pc2n21
+- 👀 I’m interested in Fair AI models for operations research as well as complex adaptive systems.
+- 🌱 I’m currently studying a PhD on Fairness in Machine learning for credit scoring at the university of Southampton. 
+- 💞️ I’m looking to collaborate on any project that will taught me something new and that could be usefull in the future.
+- 📫 if you want to contact me dont hesitate to do so at pablo.casas@soton.ac.uk .
